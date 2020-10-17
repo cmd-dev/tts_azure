@@ -10,9 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  xml: ^3.5.0
-  http: ^0.12.0+4
-  path_provider: ^1.6.5
+  xml: 
+  http: 
+  path_provider: 
   audioplayers: ^0.14.2
 
 dev_dependencies:
